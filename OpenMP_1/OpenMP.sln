@@ -27,6 +27,8 @@ Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task2_mpi", "..\Task2_mpi\T
 EndProject
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Task3_mpi", "..\Task3_mpi\Task3_mpi.vcxproj", "{0ACE0232-5782-4BCB-A85D-A38CAB63AF28}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Cuda", "..\Cuda\Cuda.vcxproj", "{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -131,6 +133,14 @@ Global
 		{0ACE0232-5782-4BCB-A85D-A38CAB63AF28}.Release|x64.Build.0 = Release|x64
 		{0ACE0232-5782-4BCB-A85D-A38CAB63AF28}.Release|x86.ActiveCfg = Release|Win32
 		{0ACE0232-5782-4BCB-A85D-A38CAB63AF28}.Release|x86.Build.0 = Release|Win32
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Debug|x64.ActiveCfg = Debug|x64
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Debug|x64.Build.0 = Debug|x64
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Debug|x86.ActiveCfg = Debug|Win32
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Debug|x86.Build.0 = Debug|Win32
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Release|x64.ActiveCfg = Release|x64
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Release|x64.Build.0 = Release|x64
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Release|x86.ActiveCfg = Release|Win32
+		{6601D649-B38F-4EB4-B61D-AF0CA9CCABC8}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
